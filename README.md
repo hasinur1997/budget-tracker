@@ -1,6 +1,6 @@
 ## Budget Tracker
 
-A simple fun appliation for practice react, react context and react component
+A simple fun application for practice react, react context and react component
 
 ### Installation
 
